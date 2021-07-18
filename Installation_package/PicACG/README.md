@@ -14,7 +14,7 @@
 GitHub下载: <https://github.com/xkk1/xkk1data/raw/main/Installation_package/PicACG/PicACG_2.2.1.3.3.4.apk>  
 
 ###  IOS2.1.2.5
-官方下载: <https://download.pica2021.xyz/dw/android/2.2.1.3.3.4.apk>
+官方下载: <https://download.pica2021.xyz/dw/android/2.2.1.3.3.4.apk>  
 ** IOS 用家注意，你必須透過 Cydia Impactor 安裝 ipa 檔案的。  **  
 ** IOS 用户注意，你必须透过 Cydia Impactor 安装 ipa 档案的。  **  
 [安裝教學](https://mrmad.com.tw/cydia-impactor)  
