@@ -21,5 +21,6 @@ GitHub下载: <https://github.com/xkk1/xkk1data/raw/main/Installation_package/Pi
 
 ## 加速器
 
-**推荐下载官方免费加速器**  
-<https://download.pica2021.xyz/dw/android/pic.apk>  
+**推荐下载官方免费加速器**<https://download.pica2021.xyz/dw/android/pic.apk>  
+  
+YAT提供加速器<https://t.yateam.club/d9bdn0v>  
