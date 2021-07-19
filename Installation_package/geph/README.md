@@ -9,7 +9,7 @@
 
 ### Windows 7+ (installer)
 [官网(需翻墙)](https://f001.backblazeb2.com/file/geph4-dl/Geph4Releases/4.4.5/geph-windows-4.4.5-setup.exe)
-&nbsp;[github](https://www.github.com)
+&nbsp;[老狗盘](http://www.laogoupan.com/b16497)
 
 ### macOS 10.10+ (dmg)
 [官网(需翻墙)](https://f001.backblazeb2.com/file/geph4-dl/Geph4Releases/4.4.5/geph-macos-4.4.5.dmg)
@@ -19,5 +19,6 @@
 
 ### Android 5.0+ (APK)
 [官网(需翻墙)](https://f001.backblazeb2.com/file/geph4-dl/Geph4Releases/4.4.5/geph-android-4.4.5.apk)
+&nbsp;[GitHub](https://github.com/xkk1/xkk1data/raw/main/Installation_package/geph/geph-android-4.4.5.apk)
 
 ### [Android 5.0+ (Google Play)](https://play.google.com/store/apps/details?id=io.geph.android) (需翻墙)
