@@ -9,5 +9,5 @@
 &nbsp;<a href="https://hub.fastgit.org/xkk1/xkk1data/blob/main/information/other-website-collection.md#begin" target="_blank">FastGit镜像</a>
 <br />
 <a href="https://github.com/xkk1/xkk1data/blob/main/information/vip-video-resolution-address.md#begin" target="_blank">vip视频解析端口</a>
-&nbsp;<a href="https://hub.fastgit.org/xkk1/xkk1data/blob/main/information/vip-video-resolution-address.md#begin" target="_blank">vFastGit镜像</a>
+&nbsp;<a href="https://hub.fastgit.org/xkk1/xkk1data/blob/main/information/vip-video-resolution-address.md#begin" target="_blank">FastGit镜像</a>
 <br />
