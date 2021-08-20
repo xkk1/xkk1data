@@ -1,0 +1,131 @@
+# <span id="title">VIP视频解析端口</span>
+
+## 由于长时间没有维护，大部分已无法使用
+
+### <span id="begin">[返回主页](https://xkk1.github.io)&nbsp;&nbsp;&nbsp;[返回其他](https://xkk1.github.io/other/)</span>
+
+**使用方法：**  
+**假如你想在B站看电影罗小黑战记，但是你没有大会员，你可以这样做：**  
+**1、在浏览器进入[B站罗小黑战记的播放页面](https://www.bilibili.com/bangumi/play/ss28198/)**  
+**2、复制VIP视频解析端口的地址（这里以线路一为例）https://www.h8jx.com/jiexi.php?url=**  
+**3、在视频播放页面地址前加上你刚才复制的地址<https://www.h8jx.com/jiexi.php?url=https://www.bilibili.com/bangumi/play/ss28198/>**  
+**4、回车进入这个页面即可实现VIP视频解析播放，如果不行请尝试其他VIP视频解析端口**  
+如果您正在使用windows操作系统并且在Windows XP以上可以下载[vip视频解析](https://xkk1.github.io/program/vip-video-resolut.html)程序来快捷实现VIP视频解析  
+
+<span id="vip">VIP视频解析端口</span>*名称&nbsp;&nbsp;&nbsp;地址*  
+线路一 https://www.h8jx.com/jiexi.php?url=  
+线路二 https://z1.m1907.cn/?jx=  
+线路三 https://api.tv920.com/jx/?url=  
+线路四 https://api.bingdou.net/?url=  
+线路五 https://jsap.attakids.com/?url=  
+线路六 https://jx.m3u8.tv/jiexi/?url=  
+线路七 https://www.41478.net/?url=  
+线路八 https://jx.yparse.com/index.php?url=  
+线路九 https://jiexi.q-q.wang/?url=  
+线路十 https://jx.youyitv.com/?url=  
+B站解析一 https://api.tv920.com/vip/?url=  
+B站解析二 https://jx.116kan.com/?url=  
+B站解析三 https://jiexi.380k.com/?url=  
+B站解析四 https://jx.yparse.com/index.php?url=  
+B站解析六 https://www.cuan.la/m3u8.php?url=  
+B站解析七 https://jx.973973.xyz/?url=  
+B站解析八 https://jx.popo520.cn/jiexi/?url=  
+B站解析九 https://vip.parwix.com:4433/player/?url=  
+B站解析十 https://www.ckplayer.vip/jiexi/?url=  
+B站解析11 https://api.10dy.net/?url=  
+B站解析12  https://www.8090g.cn/?url=  
+B站解析13 https://vip.ikjiexi.top/?url=  
+B站解析14 https://www.h8jx.com/jiexi.php?url=  
+B站弹窗 http://jx.rdhk.net/?v=  
+B站弹窗 http://api.myzch.cn/?url=  
+1907 https://z1.m1907.cn/?jx=  
+52 https://vip.52jiexi.top/?url=  
+17云 https://www.1717yun.com/jx/ty.php?url=  
+618G https://jx.618g.com/?url=  
+明日 https://jx.yingxiangbao.cn/vip.php?url=  
+千叶 https://yi29f.cn/vip.php?url=  
+思古 https://jx.quanmingjiexi.com/?url=  
+大幕 https://jx.52damu.com/dmjx/jiexi.php?url=  
+纯净线路1 https://z1.m1907.cn/?jx=  
+纯净线路2 https://jx.618g.com/?url=  
+B站 https://vip.parwix.com:4433/player/?url=  
+B站2 https://jx.yingxiangbao.cn/vip.php?url=  
+B站3 https://vip.52jiexi.top/?url=  
+B站4 https://jx.yparse.com/index.php?url=  
+B站5 https://jx.116kan.com/?url=  
+B站7 https://www.cuan.la/m3u8.php?url=  
+bl解析 https://vip.bljiex.com/?v=  
+冰豆 https://api.bingdou.net/?url=  
+八八 https://jiexi.q-q.wang/?url=  
+爸比云 https://jx.1ff1.cn/?url=  
+百域 https://jx.618g.com/?url=  
+clouse6 http://jx.clousx6.cn/player/?url=  
+ckmov https://www.ckmov.vip/api.php?url=  
+初心 http://jx.bwcxy.com/?v=  
+大幕 https://jx.52damu.com/dmjx/jiexi.php?url=  
+二度 https://jx.du2.cc/?url=  
+凡凡 https://jx.wslmf.com/?url=  
+福星 https://jx.popo520.cn/jiexi/?url=  
+跟剧 https://www.5igen.com/dmplayer/player/?url=  
+ha12 https://py.ha12.xyz/sos/index.php?url=  
+Hk https://jx.rdhk.net/?v=  
+H8 https://www.h8jx.com/jiexi.php?url=  
+豪华啦 https://api.lhh.la/vip/?url=  
+黑米 https://www.myxin.top/jx/api/?url=  
+黑云 https://jiexi.380k.com/?url=  
+蝴蝶 https://api.hdworking.top/?url=  
+IDC https://jx.idc126.net/jx/?url=  
+IK解析 https://vip.ikjiexi.top/?url=  
+金桥 https://jqaaa.com/jx.php?url=  
+解析S https://jx.jiexis.com/?url=  
+久播(明日) https://jx.jiubojx.com/vip.php?url=  
+九八看 https://jx.youyitv.com/?url=  
+凉城 https://jx.mw0.cc/?url=  
+蓝影 http://huiwanka.xyz/jx/?url=  
+流氓凡 https://jx.wslmf.com/?url=  
+m3u8 https://jx.m3u8.tv/jiexi/?url=  
+m3u8tv https://jiexi.janan.net/jiexi/?url=  
+Mao https://titan.mgtv.com.kunlanys.com/m3u8.php?url=  
+磨菇 https://jx.wzslw.cn/?url=  
+诺诺 https://www.ckmov.com/?url=  
+诺讯 https://www.nxflv.com/?url=  
+OK https://okjx.cc/?url=  
+千忆 https://v.qianyicp.com/v.php?url=  
+穷二代 https://jx.ejiafarm.com/dy.php?url=  
+千叶 https://yi29f.cn/vip.php?url=  
+思云 https://jx.ap2p.cn/?url=  
+思古 https://api.sigujx.com/?url=  
+思古2 https://api.bbbbbb.me/jx/?url=  
+思古3 https://jsap.attakids.com/?url=  
+宿命 https://api.sumingys.com/index.php?url=  
+时光 http://timeys.maosp.me/jx/?url=  
+石云 https://jiexi.071811.cc/jx.php?url=  
+tv920 https://api.tv920.com/vip/?url=  
+通用 https://jx.598110.com/index.php?url=  
+维多 https://jx.ivito.cn/?url=  
+无名 https://www.administratorw.com/video.php?url=  
+xx https://chkkk.top/jiexi/ys?url=  
+小蒋极致 https://www.kpezp.cn/jlexi.php?url=  
+小狼 https://jx.yaohuaxuan.com/?url=  
+新线路 https://vip.kurumit3.top/?v=  
+新线路2 https://jx.hnhsn.com/api/?url=  
+星驰 https://vip.cjys.top/?url=  
+星空 http://60jx.com/?url=  
+要搜 https://www.yaosou.cc/jiexi/?v=  
+云端 https://jx.ergan.top/?url=  
+用心 https://yi29f.cn/vip.php?url=  
+一起走吧 http://jiexi.yiqizouba.top/?url=  
+8B https://api.8bjx.cn/?url=  
+17云 https://www.1717yun.com/jx/ty.php?url=  
+33t https://www.33tn.cn/?url=  
+41 https://jx.f41.cc/?url=  
+69 https://api.69ne.com/?url=  
+89 https://www.ka61b.cn/jx.php?url=  
+180 https://jx.000180.top/jx/?url=  
+200 https://vip.66parse.club/?url=  
+517 https://cn.bjbanshan.cn/jx.php?url=  
+973 https://jx.973973.xyz/?url=  
+8090 https://www.8090g.cn/?url=  
+
+#### [返回顶部](#begin) [回到VIP视频解析端口](#vip)  
+<span id="end">更新时间：2021-2-11 14:02:46&nbsp;&nbsp;QQ:3434623263<br>如果您对本页有什么意见或建议，可以到[我的网盘](http://xiaokuku.ys168.com/)留言区反馈<span>
