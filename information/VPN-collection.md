@@ -13,3 +13,4 @@ QuickVPN.apk [官网](https://quickvpn.lipisoft.com/) [官网下载地址](https
 蚂蚁VPN.apk [官网](https://mayivpn.xyz/) [Google play](https://play.google.com/store/apps/details?id=com.mayi.xiaoyi&hl=zh&gl=US) [APKFab下载](https://apkfab.com/free-apk-download?q=com.mayi.xiaoyi) [老狗盘](https://www.laogoupan.com/b17583)  
 老王VPN.apk [官网](https://www.wangvpn666.com/) [Google Play](https://play.google.com/store/apps/details?id=com.sticktoit) [APKFab下载](https://apkfab.com/free-apk-download?q=com.sticktoit) [老狗盘](https://www.laogoupan.com/b17582)  
 蘑菇加速器.apk [官网](https://3.mogu91.com/) [官网下载](https://d.mogu52.com:82/13/mogu.apk) [老狗盘](http://www.laogoupan.com/b19477)  
+v2ray [freefq/free](https://github.com/freefq/free)  
