@@ -22,6 +22,11 @@
 <https://iss866.com> 无翼鸟  
 <https://www.picacomic.com/>(需翻墙) <https://download2.picacomic2.xyz/>  [本站](https://xkk1.github.io/other/markdown/marked.html?title=PicACG%20%E5%93%94%E5%92%94%E6%BC%AB%E7%94%BB%20%E5%97%B6%E5%92%94%E6%BC%AB%E7%95%AB&md=https://raw.githubusercontent.com/xkk1/xkk1data/main/Installation_package/PicACG/README.md) [github](https://github.com/xkk1/xkk1data/blob/main/Installation_package/PicACG/README.md#begin) 哔咔漫画  
 <https://e-hentai.org/> E-Hentai、E站、E绅士、熊猫网  
+#### furry 福瑞
+<https://e621.net/>  
+<https://furry.booru.org>  
+
+
 
 ### <span id="音乐">音乐</span>
 <http://www.588230.com/#music> 音乐解析 - 南瓜学习网  
@@ -44,4 +49,4 @@
 <!--<https://www.jio.vip/> 吉傲网  -->  
 
 #### [返回顶部](#begin) [回到目录](#content)  
-<span id="end">更新时间：2021年7月18日22:08:50&nbsp;&nbsp;QQ:3434623263<br>如果您对本页有什么意见或建议，可以到[我的网盘](http://xiaokuku.ys168.com/)留言区反馈<span>
+<span id="end">更新时间：2021-8-23 21:26:51&nbsp;&nbsp;QQ:3434623263<br>如果您对本页有什么意见或建议，可以到[我的网盘](http://xiaokuku.ys168.com/)留言区反馈<span>
