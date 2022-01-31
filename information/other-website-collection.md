@@ -24,7 +24,8 @@
 <https://www.picacomic.com/>(需翻墙) <https://download2.picacomic2.xyz/>  [本站](https://xkk1.github.io/other/markdown/marked.html?title=PicACG%20%E5%93%94%E5%92%94%E6%BC%AB%E7%94%BB%20%E5%97%B6%E5%92%94%E6%BC%AB%E7%95%AB&md=https://raw.githubusercontent.com/xkk1/xkk1data/main/Installation_package/PicACG/README.md) [github](https://github.com/xkk1/xkk1data/blob/main/Installation_package/PicACG/README.md#begin) 哔咔漫画  
 <https://e-hentai.org/> E-Hentai、E站、E绅士、熊猫网  
 <https://miaoshenshi.com/> <https://zh.ddhentai.com/> 喵紳士  
-<https://cn.pornhub.com/> PornHub
+<https://cn.pornhub.com/> PornHub  
+<https://theporndude.com/> Porn Dude - Best Porn Sites & Free Porn Tubes List of 2022!  
 
 ### furry 福瑞
 <https://e621.net/>  
