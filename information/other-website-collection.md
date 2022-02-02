@@ -50,6 +50,7 @@
 <http://www.freeget.org/> freegetVIP视频在线解析  
 <http://tool.bitefu.net/video/> 比特福VIP视频解析接口  
 <https://daga.cc/> 全民影视vip视频在线解析网  
+<http://tv.shuma.ink/> 数码小站VIP视频解析  
 
 ---
 
