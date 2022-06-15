@@ -1,4 +1,4 @@
-#  <span id="begin">书籍列表</span>
+#  <span id="begin">书籍列表</span>[(后面蓝色的是下载链接)](https://raw.githubusercontent.com/xkk1/xkk1data/main/book/list.md)
 给男孩子的慰菊指导丛书.pdf [GitHub](https://github.com/doodlewind/examples/releases/download/0.0.0/anal-play-for-boys.pdf) [蓝奏云](https://www.lanzout.com/iQHTQ06g7vof)  
 女装，从入门到精通.pdf [GitHub](https://github.com/xkk1/xkk1data/raw/main/book/%E5%A5%B3%E8%A3%85%EF%BC%8C%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A.pdf) [蓝奏云](https://www.lanzout.com/iQHTQ06g7vof)  
 梦控师.pdf [百度网盘(提取码: bw7d)](https://pan.baidu.com/s/1bx2gHIj-Y3aok7bL3pDtLQ?pwd=bw7d) [蓝奏云](https://www.lanzout.com/iz50Jy8hrzg) [github](https://github.com/xkk1/xkk1data/raw/main/book/%E6%A2%A6%E6%8E%A7%E5%B8%88.pdf)  
