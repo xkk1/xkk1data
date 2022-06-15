@@ -7,3 +7,5 @@ Python3-廖雪峰【带标签完整版】.pdf [蓝奏云](https://www.lanzout.co
 时间简史 A brief history of time (中文插图版)英 史蒂芬.霍金.pdf [蓝奏云](https://www.lanzout.com/ikoKb06g0p5i)  
 小甲鱼零基础入门学习Python（2020版）.pdf [蓝奏云](https://www.lanzout.com/iXsiF06g0qwb)  
 Python编程：从入门到实践.pdf [蓝奏云](https://www.lanzout.com/ikyet06g0tda)  
+NOIP2017普及组初赛C++语言试题及答案详解.pdf [蓝奏云](https://www.lanzout.com/i29k406g23qj)  
+啊哈C！高清完整版.pdf [蓝奏云](https://www.lanzout.com/irgFO06g23ng)  
