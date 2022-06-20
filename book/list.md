@@ -13,3 +13,4 @@ NOIP2017普及组初赛C++语言试题及答案详解.pdf [蓝奏云](https://ww
 算法设计与分析基础.第3版.pdf [蓝奏云](https://www.lanzout.com/i3u7G06g7bij)  
 C++版信息学奥赛辅导教程.doc [蓝奏云](https://www.lanzout.com/iDjdl06g7myb)  
 Let_s_C_一本有关C语言的闲书.pdf [蓝奏云](https://www.lanzout.com/iWwCE06p26fa)  
+Java编程思想第四版.pdf [蓝奏云](https://www.lanzout.com/in5hp06p2bza)  
