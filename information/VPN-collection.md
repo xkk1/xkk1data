@@ -19,4 +19,3 @@ v2ray [freefq/free](https://github.com/freefq/free)
 - 无界 [无界浏览21.32](https://bitbucket.org/fastfile2010/aaa202102/downloads/u2132.rar) [无界一点通](https://s3.amazonaws.com/wujie/um.apk)  
 - 自由门 [GitHub1](https://github.com/freegate-release/website) [安卓自由门VPN1.3下载](https://bitbucket.org/fastfile2010/aaa202102/downloads/fgvpn.apk) [自由门7.97版](https://bitbucket.org/fastfile2010/aaa202102/downloads/fg797p.rar)   
 
-GeekSpeed极客加速器 <https://geekspeed.app/>  
