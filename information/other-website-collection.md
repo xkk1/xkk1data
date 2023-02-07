@@ -26,10 +26,6 @@
 <https://cn.pornhub.com/> PornHub  
 <https://theporndude.com/> Porn Dude - Best Porn Sites & Free Porn Tubes List of 2022!  
 
-### furry 福瑞
-<https://e621.net/>  
-<https://furry.booru.org>  
-
 ---
 
 ## <span id="音乐">音乐</span>
