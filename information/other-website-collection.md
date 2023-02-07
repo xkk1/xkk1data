@@ -8,7 +8,6 @@
 + [图片](#图片)
 + [音乐](#音乐)
 + [视频](#视频)
-+ [其他](#其他)
 
 ---
 
@@ -52,19 +51,5 @@
 <https://daga.cc/> 全民影视vip视频在线解析网  
 <http://tv.shuma.ink/> 数码小站VIP视频解析  
 
----
-
-## <span id="其他">其他</span>
-<https://github.com/nyahentai> <http://BaoYu29.com> <http://by7716.com>  
-<https://github.com/baoyutv1/baoyu/wiki/baoyu>  
-<!--<https://www.jio.vip/> 吉傲网-->
-[https://www.jio.wang/](https://www.jio.wang/index.php?x=31433) 吉傲社区  
-<https://github.com/saobipian/caobipian> JieAV 免费成人电影福利视频在线观看  
-<https://github.com/Bcinema/Btv> B影院  
-<https://github.com/gebidilaowang/yingtaotv> 樱桃TV  
-<Fi11.com> / <Fi11.cn> ~~<https://www.hxcbb62.com/>~~ 含羞草研究所  
-<https://bitbucket.org/url101/home> AVHD101  
-<https://wnacg.net/> / <https://wnacg.com/> / <https://www.wnacg.org/>  
-<https://cn.edgemeplease.com> 请边缘我吧！  
 
 #### [返回顶部](#begin) [回到目录](#content)  
